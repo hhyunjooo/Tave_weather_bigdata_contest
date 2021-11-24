@@ -1,0 +1,15 @@
+실행 순서
+
+1. 데이터 정리.ipynb
+
+2. 온라인 판매 데이터 - 날씨 데이터 상관관계.ipynb
+
+3. 냉난방가전 구매 데이터 + 날씨 데이터  EDA.ipynb
+
+4. 선형회귀, 릿지, 라쏘.ipynb
+
+5. LightGBM .ipynb
+
+6. RandomForest.ipynb
+
+7. 공적분 + 이상 탐지.ipynb
